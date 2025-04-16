@@ -42,7 +42,7 @@ Seeded users:
 ```
 ## 🚀 Getting Started
 #### Step 1: Clone the Repository
-git clone https://github.com/your-username/RoleBasedAuthAPI.git 
+git clone https://github.com/Sumit-Jadhav-19/Role-Based-Authorization.git
 
 #### Step 2: Setup Connection String
 Update appsettings.json with your SQL Server connection:
